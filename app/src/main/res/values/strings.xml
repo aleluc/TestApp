@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestApp</string>
+    <string name="kitten_pic_description">this is somewhat cute</string>
+    <string name="scare_kitten">Scare kitten!</string>
 </resources>
